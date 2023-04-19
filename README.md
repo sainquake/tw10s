@@ -39,6 +39,14 @@ length= 4996 mm  dt= 96 us
 
 ```
 
+# Helful links
+
+- Another approach to masure data is relised [here](https://github.com/Steill/TW10SP-rangefinder)
+- I bought this rangefinder on [1688.com](https://detail.1688.com/offer/593813055752.html)
+- Same on Aliexpress is [here](https://aliexpress.ru/item/1005001771220191.html)
+
+
+
 # TERMS OF USAGE / LICENCE
 
 The material provided in this Github repository is subject to the following conditions. 
