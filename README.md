@@ -1,5 +1,7 @@
 # TW10S-UART test program
 
+$P = \frac{1}{2} \rho V^2$
+
 Here you can find [datasheet](./datasheet.pdf). Where written that you can use 3 types of protocol, but only 1 way is working:
 
 Send byte array like ```0x01 0x03 0x00 0x0F 0x00 0x02 0xF4 0x08``` and its just single measurement as its written on [arduino](https://forum.arduino.cc/t/sending-receiving-laser-sensor-data/964759) forum.
